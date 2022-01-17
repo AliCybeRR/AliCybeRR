@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**AliCybeRR/AliCybeRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+__HI, My name is AliCybeRR__ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Back-End Web Developer, \
+I usually code with Python and am always interested in learning new things
+
+
+ 
+__Favorites__
+
+[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) \
+
+
+
+ 
+ <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=AliCybeRR&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ 
+ 
+</div>
