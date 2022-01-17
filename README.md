@@ -4,7 +4,7 @@
 __HI, My name is AliCybeRR__ 
 
 
-I'm Back-End Web Developer, \
+Iranian Hacker & programer , \
 I usually code with Python and am always interested in learning new things
 
 
